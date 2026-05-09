@@ -1,4 +1,4 @@
-
+Trello for Windows new Plugin: search-functionality & notifications offers the most advanced Trello for Windows plugin, with search-functionality and notifications. Ideal for
 
 
 
